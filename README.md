@@ -1,8 +1,11 @@
 # White Noise Analysis of Neural Networks
 
-**News**: Manuscript is avaiable in [Arxiv](https://openreview.net/pdf?id=H1ebhnEYDH)
 
-**Work in Progress ...**
+** Work in Progress ... **
+
+
+
+**News**: Manuscript is avaiable in [Arxiv](https://openreview.net/pdf?id=H1ebhnEYDH)
 
 
 ## Introduction
