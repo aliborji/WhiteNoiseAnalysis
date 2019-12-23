@@ -5,7 +5,7 @@
 
 
 
-**News**: Manuscript is avaiable in [Arxiv](https://openreview.net/pdf?id=H1ebhnEYDH)
+**News**: Manuscript is avaiable in [Arxiv](https://openreview.net/pdf?id=H1ebhnEYDH).
 
 
 ## Introduction
